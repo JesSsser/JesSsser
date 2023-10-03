@@ -1,5 +1,7 @@
 # Hi, I'm Jesser Elouni! 👋
-<p>&nbsp;
+## 🚀 About Me
+
+I'm a full stack developer in my 5th year of studies in software architecture engineering, currently seeking an internship opportunity to apply and enhance my skills.<p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JesSsser&show_icons=true&theme=dark&title_color=01b704&text_color=ffffff&bg_color=000000&hide_border=true" alt="JesSsser stats card" /></p>
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
@@ -52,18 +54,3 @@
 <a href="https://www.qt.io/" target="blank">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="QT" height="40" width="40" />
 </a>
-
-<!--
-**JesSsser/JesSsser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
